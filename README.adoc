@@ -1,3 +1,5 @@
 = Bienvenue sur la page des Sites de PPS
 
 Blabla...
+
+image::pps-logo[width=50%, align=center]
