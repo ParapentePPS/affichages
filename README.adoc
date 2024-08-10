@@ -2,4 +2,4 @@
 
 Blabla...
 
-image::pps-logo[width=50%, align=center]
+image::pps-logo.jpeg[width=50%, align=center]
