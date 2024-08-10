@@ -1,7 +1,10 @@
 = Bienvenue sur la page des Sites de PPS
 (Version du {localdate})
 :nofooter:
+:icons: font
 
 Blabla...
 
 image::pps-logo.jpeg[width=50%, align=center]
+
+TIP: Notre page icon:facebook[] Facebook est https://www.facebook.com/parapente.pays.de.sault/[ici].
