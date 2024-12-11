@@ -3,8 +3,19 @@
 :nofooter:
 :icons: font
 
+== Nos sites
+
 Blabla...
 
 image::pps-logo.jpeg[width=50%, align=center]
 
 TIP: Notre page icon:facebook[] Facebook est https://www.facebook.com/parapente.pays.de.sault/[ici].
+
+== Venir tirer votre secours
+
+Vous souhaitez effectuer un tirage de secours en toute sécurité sur notre tyrolienne, réservez un créneau sur notre calendrier en cliquant sur ce lien :
+https://bit.ly/pps-tyrolienne, ou en sélectionnant directement un créneau ci-dessous :
+
+++++
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FParis&showPrint=0&title=Tyrolienne%20PPS&src=cGFyYXBlbnRlcGF5c2Rlc2F1bHRAZ21haWwuY29t&src=MTQwOGE4YzUxZjAyZGQzZTc0Yzk1YjFkNDkxMzkxOGNjZjk2ZTRkMWRkYjZkYWY0ZjEzNGVlMDU4ZTQ2MTNhOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4uZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23B39DDB&color=%2333B679&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+++++
