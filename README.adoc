@@ -32,11 +32,17 @@ WARNING: Balise en maintenance.
 [green]#Laisser la possibilité...#
 
 | 
+|===
+
+Autre essai :
+
+[cols="1,5a"]  
+|===
 [red]#CAMURAC#
 
 link:https://intranet.ffvl.fr/terrain/13557[Coste Rouge]
- | 
- image:spot.svg[CosteRouge, link="https://intranet.ffvl.fr/terrain/13557",width=100]
+
+ image:spot.svg[CosteRouge, link="https://intranet.ffvl.fr/terrain/13557",width=50, align=center]
 
  image:costeRouge.png[CosteRouge, link="https://intranet.ffvl.fr/terrain/13557",width=100]
 
