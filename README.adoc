@@ -34,11 +34,14 @@ WARNING: Balise en maintenance.
 | 
 [red]#CAMURAC#
 
-...
+link:https://intranet.ffvl.fr/terrain/13557[Coste Rouge]
  | 
- image:spot.svg[PicDuMidiNord, link="",width=100]
+ image:spot.svg[CosteRouge, link="https://intranet.ffvl.fr/terrain/13557",width=100]
+
+ image:costeRouge.png[CosteRouge, link="https://intranet.ffvl.fr/terrain/13557",width=100]
 
  |
+ ...
 |===
 // image:pps-logo.jpeg[width=10%, align=center]
 
