@@ -8,7 +8,7 @@
 
 == Nos sites image:pps-logo.jpeg[width=5%]
 
-TIP: Scannez ou cliquez directement sur le QRCode.
+TIP: Scannez ou cliquez directement sur le QRCode pour visiter le site officiel FFVL.
 
 [cols="1,1,5a"]  
 |===
@@ -36,7 +36,7 @@ WARNING: Balise en maintenance.
 
 Autre essai :
 
-[cols="1,5a"]  
+[cols="^1,5a"]  
 |===
 [red]#CAMURAC#
 
