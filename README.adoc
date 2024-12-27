@@ -2,12 +2,32 @@
 (Version du {localdate})
 :nofooter:
 :icons: font
+:imagesdir: images
 
-== Nos sites
+== Nos sites image:pps-logo.jpeg[width=5%]
 
-Blabla...
 
-image::pps-logo.jpeg[width=50%, align=center]
+[cols="1,1,3"]  
+|===
+|
+[red]#ROQUEFEUIL#
+
+[blue]#Pic du Midi Nord#
+|
+image:picMidiNord.png[width=400]
+|
+Pas de restriction.
+
+Balise en maintenance
+
+*Champs non fauchés = [red]#posé interdit atterro officiel ou champs non fauché#.*
+
+*Pose possible ici* : GPS
+
+[green]#Laisser la possibilité...#
+
+|===
+// image:pps-logo.jpeg[width=10%, align=center]
 
 TIP: Notre page icon:facebook[] Facebook est https://www.facebook.com/parapente.pays.de.sault/[ici].
 
