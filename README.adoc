@@ -6,19 +6,22 @@
 
 == Nos sites image:pps-logo.jpeg[width=5%]
 
+TIP: Scannez ou cliquez directement sur le QRCode.
 
-[cols="1,1,3"]  
+[cols="1,1,5a"]  
 |===
 |
 [red]#ROQUEFEUIL#
 
-[blue]#Pic du Midi Nord#
+link:https://intranet.ffvl.fr/sites_pratique/voir/1721[Pic du Midi Nord]
 |
-image:picMidiNord.png[width=400]
+image:spot.svg[PicDuMidiNord, link="https://intranet.ffvl.fr/sites_pratique/voir/1721",width=100]
+
+image:picMidiNord.png[PicDuMidiNord, link="https://intranet.ffvl.fr/sites_pratique/voir/1721",width=100]
 |
 Pas de restriction.
 
-Balise en maintenance
+WARNING: Balise en maintenance.
 
 *Champs non fauchés = [red]#posé interdit atterro officiel ou champs non fauché#.*
 
