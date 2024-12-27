@@ -3,6 +3,8 @@
 :nofooter:
 :icons: font
 :imagesdir: images
+:toc: left
+:toc-title: Table des matières
 
 == Nos sites image:pps-logo.jpeg[width=5%]
 
